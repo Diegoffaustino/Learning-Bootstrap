@@ -1,0 +1,39 @@
+bory{
+    font:Brush Script MT, Brush Script Std, cursive;
+}
+
+
+.navbar{
+    background-color: aqua;
+}
+
+
+.quem-somos{
+     background-color: #C0C0C0;
+     color: white;
+     padding-bottom:5px;
+     
+}
+
+
+
+.margin{
+    padding-bottom: 50px;
+    padding-top:10px;
+}
+
+.parceiros{
+    background-color: #FAF0E6;
+    color: black;
+}
+
+.servicos{
+    background-color: white;
+    color: black;
+}
+
+.bg-footer{
+    background-color:rgb(68, 14, 14);
+    color: white;
+
+}
